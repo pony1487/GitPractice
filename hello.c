@@ -3,6 +3,6 @@
 int main()
 {
 
-	printf("Hello World: This is the master branch\n");
+	printf("Hello World: This is the master and  dev branch combined\n");
 	return 0;
 }
